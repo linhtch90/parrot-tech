@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/parrot-tech/static/css/main.a6bb4e78.chunk.css",
+    "main.js": "/parrot-tech/static/js/main.27b2c50a.chunk.js",
+    "main.js.map": "/parrot-tech/static/js/main.27b2c50a.chunk.js.map",
+    "runtime-main.js": "/parrot-tech/static/js/runtime-main.aae1f8dc.js",
+    "runtime-main.js.map": "/parrot-tech/static/js/runtime-main.aae1f8dc.js.map",
+    "static/js/2.f3f02479.chunk.js": "/parrot-tech/static/js/2.f3f02479.chunk.js",
+    "static/js/2.f3f02479.chunk.js.map": "/parrot-tech/static/js/2.f3f02479.chunk.js.map",
+    "index.html": "/parrot-tech/index.html",
+    "precache-manifest.7645a1848ae70489bc197636f86a1da1.js": "/parrot-tech/precache-manifest.7645a1848ae70489bc197636f86a1da1.js",
+    "service-worker.js": "/parrot-tech/service-worker.js",
+    "static/css/main.a6bb4e78.chunk.css.map": "/parrot-tech/static/css/main.a6bb4e78.chunk.css.map",
+    "static/js/2.f3f02479.chunk.js.LICENSE.txt": "/parrot-tech/static/js/2.f3f02479.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae1f8dc.js",
+    "static/js/2.f3f02479.chunk.js",
+    "static/css/main.a6bb4e78.chunk.css",
+    "static/js/main.27b2c50a.chunk.js"
+  ]
+}
